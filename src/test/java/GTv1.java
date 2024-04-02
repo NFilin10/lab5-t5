@@ -6,7 +6,7 @@ import ee.ut.math.tvt.salessystem.dataobjects.SoldItem;
 import ee.ut.math.tvt.salessystem.dataobjects.StockItem;
 import java.util.List;
 
-public class MTv1 {
+public class GTv1 {
 
 	@Test(timeout = 4000)
 	public void testBeginTransaction() throws Throwable {
